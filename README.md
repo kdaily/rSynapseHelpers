@@ -1,0 +1,1 @@
+Helper functions for working with Synapse through the R client.
