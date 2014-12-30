@@ -1,11 +1,11 @@
 Package: rSynapseHelpers
 Type: Package
-Title: What the package does (short line)
+Title: R Synapse Helpers
 Version: 1.0
 Date: 2014-12-30
 Author: Kenneth Daily
 Maintainer: Kenneth Daily <kenneth.daily@sagebase.org>
-Description: Helper functions for Synapse
+Description: Helper functions for working with Synapse through the client.
 License: What license is it under?
 Imports:
     synapseClient
